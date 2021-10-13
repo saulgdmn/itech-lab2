@@ -1,0 +1,16 @@
+td {
+    padding: 3px; /* Поля вокруг содержимого ячейки */
+    text-align: center; /* Выравнивание по центру */
+    border-bottom: 1px solid #a52a2a; /* Линия внизу ячейки */
+   }
+th {
+    padding: 3px; /* Поля вокруг содержимого ячейки */
+    background: #a52a2a; /* Цвет фона */
+    color: white; /* Цвет текста */
+}
+tr.even {
+    background: #fffff0; /* Цвет фона четных строк */
+}
+td.la {
+    text-align: left; /* Выравнивание по левому краю */
+}
